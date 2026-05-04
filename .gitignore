@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+go_server/.venv/
+node_modules/
+build/
+bin/
+*.exe
+*.zip
+data/
+.DS_Store
+EOF
