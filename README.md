@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ XSCAN GOGUI · PE 恶意软件扫描客户端
+# 🛡️ XSCAN 机器学习 ·  恶意软件扫描客户端
 
 **基于 [Wails](https://wails.io/) 的 Windows 桌面客户端** · Go 后端提取 **Ember 风格** PE 特征 · 纯 Go **LightGBM** 推理（[`leaves`](https://github.com/dmitryikh/leaves)）  
 **Vue 3 + Vite + Tailwind** 现代化界面 · 本地 **SQLite** 历史记录与配置
